@@ -1,3 +1,10 @@
+<?php
+	include 'config.php';
+
+	$ip =  $_SERVER['REMOTE_ADDR'];
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
